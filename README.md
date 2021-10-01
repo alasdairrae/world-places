@@ -7,7 +7,7 @@ Here's how they describe the file:
 
 >*"We're proud to offer a simple, accurate and up-to-date database of the world's cities and towns. We've built it from the ground up using authoritative sources such as the NGIA, US Geological Survey, US Census Bureau, and NASA."*
 
-You can download the geopackage and add it to QGIS, or you can even just load it directly over HTTP as a vector layer by pasting in one of these links below.
+You can download the geopackage and add it to QGIS, or you can even just load it directly over HTTP as a vector layer by pasting in one of these links below. These links will also allow you to download the files directly to your computer and then you can load them in to QGIS from your own machine.
 
 - For the Geopackage: https://github.com/alasdairrae/world-places/raw/main/world-cities-30-sept-2021.gpkg
 
